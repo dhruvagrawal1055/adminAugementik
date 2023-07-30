@@ -16,7 +16,7 @@ const Home = () => {
  
                     onInit={(typewriter) => {
                         typewriter
-                            .typeString("Welcome to Admin Panel\n abcd")
+                            .typeString("Welcome to the Admin Panel")
                             .pauseFor(10)
                             .start();
                     }}
